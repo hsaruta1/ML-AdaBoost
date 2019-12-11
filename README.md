@@ -1,0 +1,4 @@
+# ML-AdaBoost
+
+Java用機械学習ライブラリWekaを用いて機械学習アルゴリズムAdaBoostによる
+二値分類を実装したサンプル
